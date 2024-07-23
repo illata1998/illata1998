@@ -2,7 +2,7 @@ Hi 👋 My name is Ulyana Krasilnikova
 ====================================
 Python Back-end Developer
 -------------------------
-I graduated from St. Petersburg Polytechnic University with honors in microelectronics in 2019. For five years, I have been working as a STEM teacher, accompanying students’s research projects. Quite recently, I decided to change my career path. Currently, I am at the final stage of the Python Developer program at Hexlet Online School. I sincerely enjoy the learning process, and I want to find myself in the IT field.
+I graduated from St. Petersburg Polytechnic University with honors in microelectronics in 2019. For five years, I have been working as a STEM teacher, accompanying students’s research projects. Quite recently, I decided to change my career path. Currently, I am at the final stage of the Python Developer program at Hexlet Online School. I sincerely enjoy the learning process, and I want to reach my full potential in the IT field.
 * 🌍  I'm based in Kingisepp, Russia
 * ✉️  You can contact me at [79218569484@ya.ru](mailto:79218569484@ya.ru)
 * 🧠  I'm learning Django
