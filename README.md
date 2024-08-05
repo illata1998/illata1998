@@ -15,7 +15,7 @@ I graduated from St. Petersburg Polytechnic University with honors in microelect
 
 ### Socials
 
-<p align="left"> <a href="https://career.habr.com/illata1998" target="_blank" rel="noreferrer">Хабр Карьера/a></p>
+<p align="left"> <a href="https://career.habr.com/illata1998" target="_blank" rel="noreferrer">Хабр Карьера</a></p>
 
 ### Badges
 
