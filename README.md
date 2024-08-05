@@ -7,7 +7,7 @@ I graduated from St. Petersburg Polytechnic University with honors in microelect
 * ✉️  You can contact me at [79218569484@ya.ru](mailto:79218569484@ya.ru)
 * 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on any project that requires my specialties and that might help me learn and improve
-* ⚡  I love cacti
+* ⚡  I am growing cacti and studying italian
 
 ### Skills  
 
